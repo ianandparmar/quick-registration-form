@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/quick-registration-form/static/css/main.0738f96e.css",
+    "main.js": "/quick-registration-form/static/js/main.b85fd665.js",
+    "static/js/787.24e9e548.chunk.js": "/quick-registration-form/static/js/787.24e9e548.chunk.js",
+    "index.html": "/quick-registration-form/index.html",
+    "main.0738f96e.css.map": "/quick-registration-form/static/css/main.0738f96e.css.map",
+    "main.b85fd665.js.map": "/quick-registration-form/static/js/main.b85fd665.js.map",
+    "787.24e9e548.chunk.js.map": "/quick-registration-form/static/js/787.24e9e548.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0738f96e.css",
+    "static/js/main.b85fd665.js"
+  ]
+}
